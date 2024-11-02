@@ -1,0 +1,12 @@
+C:\Phúc\C#\PhamMinhPhuc_BaoCao_C#\Home\bin\Debug\Home.exe.config
+C:\Phúc\C#\PhamMinhPhuc_BaoCao_C#\Home\bin\Debug\Home.exe
+C:\Phúc\C#\PhamMinhPhuc_BaoCao_C#\Home\bin\Debug\Home.pdb
+C:\Phúc\C#\PhamMinhPhuc_BaoCao_C#\Home\obj\Debug\Home.csproj.AssemblyReference.cache
+C:\Phúc\C#\PhamMinhPhuc_BaoCao_C#\Home\obj\Debug\Home.Form1.resources
+C:\Phúc\C#\PhamMinhPhuc_BaoCao_C#\Home\obj\Debug\Home.Properties.Resources.resources
+C:\Phúc\C#\PhamMinhPhuc_BaoCao_C#\Home\obj\Debug\Home.csproj.GenerateResource.cache
+C:\Phúc\C#\PhamMinhPhuc_BaoCao_C#\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+C:\Phúc\C#\PhamMinhPhuc_BaoCao_C#\Home\obj\Debug\Home.exe
+C:\Phúc\C#\PhamMinhPhuc_BaoCao_C#\Home\obj\Debug\Home.pdb
+C:\Phúc\C#\PhamMinhPhuc_BaoCao_C#\Home\obj\Debug\Home.Login.resources
+C:\Phúc\C#\PhamMinhPhuc_BaoCao_C#\Home\obj\Debug\Home.Quanlinhanvien.resources
